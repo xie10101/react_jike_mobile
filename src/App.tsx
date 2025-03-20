@@ -1,10 +1,12 @@
-
+import { Button } from 'antd-mobile'
 import "./App.css"
 function App() {
 
   return (
     <>
-       <div></div>
+       <div>
+       <Button color='primary'>12313</Button>
+       </div>
     </>
   )
 }
